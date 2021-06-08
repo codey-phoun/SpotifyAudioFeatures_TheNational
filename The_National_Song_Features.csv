@@ -1,0 +1,238 @@
+,album,track_number,name,uri,duration_ms,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,key,time_signature,popularity,artist
+0,Sad Songs for Dirty Lovers (2021 Remaster),1,Cardinal Song - 2021 Remaster,spotify:track:1kje7rdBRPVLdJjhurLSZw,378840,0.798,0.424,0.337,0.62,0.114,-11.554,0.0345,119.901,0.108,2,4,38,The National
+1,Sad Songs for Dirty Lovers (2021 Remaster),2,Slipping Husband - 2021 Remaster,spotify:track:09b8mr09RVCoj327bBpaPS,202626,0.029,0.629,0.615,0.259,0.189,-7.732,0.0318,129.977,0.452,9,4,37,The National
+2,Sad Songs for Dirty Lovers (2021 Remaster),3,90-Mile Water Wall - 2021 Remaster,spotify:track:70YTeIt85PXWV2pJyBTGdN,224213,0.785,0.479,0.441,0.126,0.11,-8.938,0.027,103.002,0.11,4,4,39,The National
+3,Sad Songs for Dirty Lovers (2021 Remaster),4,It Never Happened - 2021 Remaster,spotify:track:3atyVUHESb82hi3d8VKEqg,277106,0.0732,0.403,0.618,0.587,0.279,-7.978,0.0278,133.113,0.22,7,4,35,The National
+4,Sad Songs for Dirty Lovers (2021 Remaster),5,Murder Me Rachael - 2021 Remaster,spotify:track:0e6Ndkr4xwChsbOIjKUgUj,225720,0.00018,0.312,0.822,0.679,0.214,-4.759,0.0494,148.926,0.266,7,4,35,The National
+5,Sad Songs for Dirty Lovers (2021 Remaster),6,Thirsty - 2021 Remaster,spotify:track:3DweEUyYOVKRpO7uuNkgRq,228160,0.162,0.542,0.4,0.326,0.261,-7.967,0.0262,130.86,0.473,7,4,34,The National
+6,Sad Songs for Dirty Lovers (2021 Remaster),7,Available - 2021 Remaster,spotify:track:51vJbRDi3sz96dY3qUjSKJ,199786,0.000202,0.33,0.933,0.905,0.246,-4.044,0.0576,143.455,0.244,1,4,38,The National
+7,Sad Songs for Dirty Lovers (2021 Remaster),8,Sugar Wife - 2021 Remaster,spotify:track:0di1Z1ucLBhrJxIib52b9O,141480,0.281,0.703,0.518,0.576,0.0933,-8.764,0.0331,110.007,0.801,7,4,33,The National
+8,Sad Songs for Dirty Lovers (2021 Remaster),9,Trophy Wife - 2021 Remaster,spotify:track:5uAWGVsBpN2KGvAYhHuwEH,212840,0.108,0.653,0.671,0.291,0.104,-7.91,0.027,123.532,0.899,0,4,33,The National
+9,Sad Songs for Dirty Lovers (2021 Remaster),10,Fashion Coat - 2021 Remaster,spotify:track:37QqI1M6gWPBTTrhtPL9fb,122573,0.112,0.666,0.742,0.000588,0.195,-6.216,0.0581,125.479,0.666,4,4,33,The National
+10,Sad Songs for Dirty Lovers (2021 Remaster),11,Patterns of Fairytales - 2021 Remaster,spotify:track:0MHXYc9ShBjIVUi1C9x2Vz,223893,0.714,0.602,0.496,0.795,0.134,-9.375,0.0333,155.069,0.303,0,4,32,The National
+11,Sad Songs for Dirty Lovers (2021 Remaster),12,Lucky You - 2021 Remaster,spotify:track:66FaKo5bbQwGAHaHGm6TFK,262786,0.698,0.609,0.518,0.836,0.116,-9.209,0.0265,138.022,0.112,4,4,34,The National
+12,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),1,Nobody Else Will Be There - Live at Berkeley 9/24/18,spotify:track:35gDrP7qmcv8YDjKwc19P5,312006,0.106,0.544,0.514,0.858,0.965,-13.652,0.0416,99.641,0.342,9,4,28,The National
+13,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),2,The System Only Dreams in Total Darkness - Live at Berkeley 9/24/18,spotify:track:2qtwiBxJnLeOGBac6rjnvs,257416,0.0335,0.429,0.751,0.669,0.897,-12.217,0.0645,114.031,0.327,1,4,27,The National
+14,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),3,Walk It Back - Live at Berkeley 9/24/18,spotify:track:48nlallfQIA6KMOqlwGehP,365737,0.0154,0.578,0.385,0.622,0.92,-14.585,0.0362,126.716,0.172,6,4,25,The National
+15,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),4,Guilty Party - Live at Berkeley 9/24/18,spotify:track:5JOD2hYjRf9jIMC2xBZBG6,384058,0.00295,0.41,0.681,0.762,0.563,-11.946,0.061,140.314,0.351,11,4,25,The National
+16,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),5,Don't Swallow the Cap - Live at Berkeley 9/24/18,spotify:track:5QItlftQfFqLYNCAYxrZxN,332149,0.0168,0.224,0.633,0.372,0.587,-11.359,0.0767,87.312,0.326,5,4,25,The National
+17,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),6,Bloodbuzz Ohio - Live at Berkeley 9/24/18,spotify:track:6OhVT605J8dvXURaNCOgOw,403083,0.0116,0.247,0.544,0.673,0.755,-13.181,0.0576,106.062,0.07,2,5,25,The National
+18,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),7,I Need My Girl - Live at Berkeley 9/24/18,spotify:track:7AF9LGQvbaOEmoBEq7eZJC,296475,0.0219,0.365,0.443,0.00037,0.422,-16.276,0.147,123.442,0.214,0,4,24,The National
+19,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),8,Green Gloves - Live at Berkeley 9/24/18,spotify:track:5dCem4RwGzh7dGGI6mtFmt,258992,0.131,0.432,0.249,0.304,0.407,-18.974,0.0557,73.469,0.132,2,4,23,The National
+20,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),9,Brainy - Live at Berkeley 9/24/18,spotify:track:6gr8gFitiK7m9NH4EbEmjA,262678,0.0122,0.523,0.559,0.726,0.976,-14.232,0.0829,85.593,0.171,11,4,22,The National
+21,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),10,Slow Show - Live at Berkeley 9/24/18,spotify:track:59qKasLoQqnX4FIEPwN2d9,260144,0.00165,0.306,0.546,0.566,0.473,-13.4,0.0415,150.307,0.283,4,4,23,The National
+22,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),11,All The Wine - Live at Berkeley 9/24/18,spotify:track:6xFGXkv8v1hbTLIJOlswlx,330698,0.00161,0.482,0.612,0.463,0.714,-13.855,0.061,124.661,0.299,7,4,22,The National
+23,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),12,I'll Still Destroy You - Live at Berkeley 9/24/18,spotify:track:3XnxVbHPCyEBgBhlbPhCAw,339864,0.0373,0.413,0.548,0.63,0.96,-13.715,0.0611,145.937,0.35,10,4,21,The National
+24,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),13,Dark Side of the Gym - Live at Berkeley 9/24/18,spotify:track:4sNKXGE5oqVnmy8lPvfvPm,279754,0.00242,0.491,0.406,0.0914,0.62,-14.682,0.0382,110.748,0.353,7,3,21,The National
+25,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),14,Day I Die - Live at Berkeley 9/24/18,spotify:track:6EFvFq3uj82a9DFxjbBDCb,332225,0.0256,0.324,0.717,0.372,0.886,-12.499,0.156,147.271,0.267,2,4,21,The National
+26,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),15,Carin at the Liquor Store - Live at Berkeley 9/24/18,spotify:track:6ODMPMCLAqF5iKY7WjIoqz,222923,0.0819,0.447,0.311,0.604,0.826,-16.947,0.0342,97.636,0.238,10,3,21,The National
+27,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),16,Graceless - Live at Berkeley 9/24/18,spotify:track:529IrJadJ2EK5mgUkHXksW,293662,0.0843,0.349,0.67,0.882,0.751,-11.948,0.0414,86.996,0.262,9,4,21,The National
+28,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),17,Rylan - Live at Berkeley 9/24/18,spotify:track:7IDWn5niELi5PDjexg6vkT,406146,0.02,0.543,0.563,0.112,0.94,-14.749,0.109,144.49,0.485,1,4,21,The National
+29,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),18,Fake Empire - Live at Berkeley 9/24/18,spotify:track:6sOMSNA0ufe4rDoT6a78xr,235675,0.00179,0.279,0.636,0.434,0.945,-13.581,0.073,104.945,0.164,0,3,21,The National
+30,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),19,Light Years - Live at Berkeley 9/24/18,spotify:track:32f4ArO6yP85eeidqojYjP,322038,0.113,0.337,0.341,0.238,0.828,-20.224,0.0978,131.499,0.287,4,4,20,The National
+31,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),20,Mr. November - Live at Berkeley 9/24/18,spotify:track:2QOs9BfDqLQ6oSppZwEKtd,282203,0.0013,0.273,0.626,0.3,0.0931,-12.672,0.0592,74.601,0.0946,7,4,20,The National
+32,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),21,Terrible Love - Live at Berkeley 9/24/18,spotify:track:09OLqSW7y9KyzvawSKnrKB,331627,0.000822,0.168,0.591,0.265,0.919,-13.366,0.0604,153.292,0.238,7,1,20,The National
+33,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),22,Vanderlyle Crybaby Geeks - Live at Berkeley 9/24/18,spotify:track:4dkfXFtbS8YGIcbAHuj1CV,270129,0.658,0.374,0.359,0.00211,0.951,-22.966,0.0788,83.164,0.218,9,4,21,The National
+34,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),1,Light Years - Live at Berkeley 9/25/18,spotify:track:5iL4bDHWTuZBWa1HR5Aact,222562,0.025,0.375,0.257,0.041,0.405,-21.252,0.0519,133.718,0.386,4,4,18,The National
+35,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),2,The System Only Dreams in Total Darkness - Live at Berkeley 9/25/18,spotify:track:5FXwHsWKh5MNBi9pXT8tVc,288008,0.00223,0.479,0.654,0.448,0.618,-13.985,0.154,114.035,0.347,10,4,19,The National
+36,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),3,Walk It Back - Live at Berkeley 9/25/18,spotify:track:3HiTO6dXurOoMHqMvRUdYo,361685,0.0038,0.554,0.442,0.558,0.624,-12.956,0.0339,127.221,0.223,6,4,18,The National
+37,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),4,Guilty Party - Live at Berkeley 9/25/18,spotify:track:1AnkbE3wl96P40A6JrDBZ5,382368,0.000722,0.317,0.678,0.644,0.791,-10.434,0.074,108.979,0.314,2,3,18,The National
+38,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),5,I Should Live in Salt - Live at Berkeley 9/25/18,spotify:track:3zPZJ6cMYEoRhTfZfpNvC4,238300,0.00319,0.306,0.619,0.154,0.474,-10.33,0.0412,74.838,0.26,0,4,18,The National
+39,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),6,Don't Swallow the Cap - Live at Berkeley 9/25/18,spotify:track:7u0MkTec8GzbN9eUsusPAL,344793,0.000636,0.316,0.63,0.0933,0.871,-10.298,0.0667,86.85,0.322,5,4,18,The National
+40,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),7,Afraid of Everyone - Live at Berkeley 9/25/18,spotify:track:1VogoqwNcUYKnhaH4tLYvH,277510,0.00156,0.283,0.662,0.188,0.681,-10.569,0.0616,134.206,0.178,5,4,18,The National
+41,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),8,I Need My Girl - Live at Berkeley 9/25/18,spotify:track:6yQGCANUmADtaWMfM2XATW,252418,0.0135,0.512,0.402,0.00353,0.649,-13.982,0.0334,123.443,0.168,0,4,17,The National
+42,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),9,This Is the Last Time - Live at Berkeley 9/25/18,spotify:track:3fV8LGYxmjsIlzvmAzXZWQ,294031,0.00134,0.327,0.593,0.0566,0.984,-12.125,0.0506,74.864,0.351,0,4,18,The National
+43,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),10,Wasp Nest - Live at Berkeley 9/25/18,spotify:track:5vag7TQepXQpzdNtCX3Bhc,272747,0.0299,0.394,0.255,0.167,0.925,-21.641,0.0467,79.05,0.11,5,4,17,The National
+44,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),11,Born to Beg - Live at Berkeley 9/25/18,spotify:track:5KPJzRfswIsyuJ2tnweavx,393294,0.0862,0.301,0.373,0.0951,0.443,-20.549,0.171,81.317,0.21,10,4,16,The National
+45,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),12,Sorrow - Live at Berkeley 9/25/18,spotify:track:3kINNL1XuZa6SJ0jtrvuhi,317085,0.001,0.351,0.434,0.0388,0.619,-15.707,0.056,120.885,0.189,9,4,16,The National
+46,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),13,Apartment Story - Live at Berkeley 9/25/18,spotify:track:01vngKBsV9VzZDsGu8FuDZ,278894,0.00983,0.266,0.494,0.0605,0.62,-13.065,0.0486,69.002,0.219,4,4,16,The National
+47,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),14,Pink Rabbits - Live at Berkeley 9/25/18,spotify:track:4lFvUK13lKzkSI6AJuUUso,266553,0.00157,0.32,0.41,0.0289,0.698,-14.081,0.0386,116.414,0.18,9,4,18,The National
+48,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),15,England - Live at Berkeley 9/25/18,spotify:track:1vqZ6Lza85ENA860s8vtCs,324191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,16,The National
+49,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),16,Day I Die - Live at Berkeley 9/25/18,spotify:track:6zNhBOR5BMnf3LL8TquEhX,293500,0.000736,0.341,0.743,0.63,0.957,-11.938,0.0906,144.863,0.278,2,4,16,The National
+50,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),17,Rylan - Live at Berkeley 9/25/18,spotify:track:1OkQKYxQvDFRzgK1xTcREz,404331,0.00579,0.553,0.647,0.559,0.907,-13.762,0.0583,144.43,0.564,11,4,16,The National
+51,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),18,Fake Empire - Live at Berkeley 9/25/18,spotify:track:6tVsMgVQQ3O3VqprWyvIk5,239148,0.000453,0.287,0.544,0.365,0.961,-12.574,0.042,103.252,0.161,0,3,16,The National
+52,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),19,About Today - Live at Berkeley 9/25/18,spotify:track:5hsPPxKHj233fpo5fbgLlc,857933,0.0476,0.255,0.409,0.205,0.453,-18.082,0.0949,108.174,0.0858,0,4,17,The National
+53,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),20,Lemonworld - Live at Berkeley 9/25/18,spotify:track:6UhK0Qm54mRRbw2TzMkpQh,272358,0.00689,0.529,0.574,0.541,0.211,-13.439,0.0623,127.661,0.199,1,4,15,The National
+54,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),21,Mr. November - Live at Berkeley 9/25/18,spotify:track:4eiEDinOOO5Hq5d6KXa5rZ,309440,0.000523,0.225,0.59,0.578,0.738,-11.618,0.0549,145.552,0.155,7,4,15,The National
+55,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),22,Terrible Love - Live at Berkeley 9/25/18,spotify:track:59IlLOD2S7Qu3J5SzIJhbt,321584,0.000201,0.154,0.645,0.613,0.736,-11.512,0.0566,81.118,0.207,7,4,15,The National
+56,Juicy Sonic Magic (Live in Berkeley September 24-25 2018),23,Vanderlyle Crybaby Geeks - Live at Berkeley 9/25/18,spotify:track:3ECHZ1BgUDIffQevCgQaV1,294309,0.684,0.375,0.413,0.00255,0.948,-22.448,0.0884,81.316,0.182,9,4,16,The National
+57,I Am Easy to Find,1,You Had Your Soul With You,spotify:track:5cBrqDgmdbgH6ncuy1hGDs,206280,0.0194,0.521,0.777,0.0953,0.0865,-5.823,0.0878,154.015,0.278,5,4,51,The National
+58,I Am Easy to Find,2,Quiet Light,spotify:track:0kje3SpbIHS7SoEk6QG5xn,255280,0.201,0.625,0.883,0.885,0.118,-6.99,0.0485,105.994,0.355,11,4,47,The National
+59,I Am Easy to Find,3,Roman Holiday,spotify:track:7y3sR3xXDSls1GPYGoJ312,214786,0.641,0.533,0.463,0.376,0.213,-10.956,0.0698,155.067,0.383,6,4,41,The National
+60,I Am Easy to Find,4,Oblivions,spotify:track:5qi2iUTdb6wMuaSembt71H,253986,0.89,0.479,0.549,0.0254,0.111,-8.852,0.0458,130.074,0.164,6,4,46,The National
+61,I Am Easy to Find,5,The Pull Of You,spotify:track:1z3zD1U8ZYmoILMZWE3kZF,238640,0.402,0.376,0.819,0.0575,0.114,-6.473,0.161,138.476,0.288,0,4,42,The National
+62,I Am Easy to Find,6,Hey Rosey,spotify:track:4sJ48xoHPUcgWPrsvpnNrp,254106,0.647,0.63,0.608,0.17,0.165,-7.975,0.0347,131.062,0.237,0,4,41,The National
+63,I Am Easy to Find,7,I Am Easy To Find,spotify:track:6RhmpJYWxzJu16nLgd8lZD,270586,0.931,0.484,0.372,0.448,0.244,-11.411,0.0317,133.857,0.193,11,4,46,The National
+64,I Am Easy to Find,8,Her Father In The Pool,spotify:track:2Tg6GoNk1AucN8Zb57elx3,62520,0.995,0.317,0.123,0.956,0.1,-22.737,0.062,71.869,0.0383,4,3,38,The National
+65,I Am Easy to Find,9,Where Is Her Head,spotify:track:7feLRaxYCAznOMuFVgJluq,281613,0.138,0.525,0.855,0.692,0.061,-5.336,0.0546,95.965,0.218,1,4,44,The National
+66,I Am Easy to Find,10,Not In Kansas,spotify:track:3QGW4gfcvnFhOOBo1p6FKT,404720,0.882,0.488,0.348,2.32e-06,0.0877,-10.467,0.0399,78.075,0.108,7,4,42,The National
+67,I Am Easy to Find,11,So Far So Fast,spotify:track:0fVhSJJXInHf99GpB2SNPt,396893,0.72,0.498,0.673,0.465,0.0645,-11.206,0.0333,112.017,0.27,4,3,40,The National
+68,I Am Easy to Find,12,Dust Swirls In Strange Light,spotify:track:7esYGv7h7qbaUO1q6MdqKh,198800,0.657,0.603,0.563,0.116,0.128,-9.959,0.0344,112.059,0.186,4,4,36,The National
+69,I Am Easy to Find,13,Hairpin Turns,spotify:track:30SPSWQRfDagq4lJ2KoaR0,267520,0.522,0.65,0.449,0.0702,0.0906,-9.2,0.0471,136.091,0.416,8,4,40,The National
+70,I Am Easy to Find,14,Rylan,spotify:track:6XxPXXqkE4lG7MVkpom6F8,223853,0.403,0.609,0.789,0.0774,0.0446,-5.565,0.0466,144.05,0.724,11,4,51,The National
+71,I Am Easy to Find,15,Underwater,spotify:track:2jMqVZRotAEs6h6RHkWi0e,81480,0.994,0.195,0.25,0.967,0.134,-14.277,0.0341,78.099,0.0376,5,4,36,The National
+72,I Am Easy to Find,16,Light Years,spotify:track:2GNj9KRwpxBWgEiPQc3jEj,213373,0.95,0.543,0.316,0.672,0.0978,-11.666,0.0307,124.946,0.178,4,4,62,The National
+73,Boxer (Live in Brussels),1,Fake Empire - Live in Brussels,spotify:track:0azRmczvz97kixqOScQ1vQ,201420,0.041,0.4,0.785,0.335,0.922,-8.098,0.0378,102.625,0.397,0,3,33,The National
+74,Boxer (Live in Brussels),2,Mistaken For Strangers - Live in Brussels,spotify:track:0TmfaP9PRmTF0H7JwoLqEK,208278,0.00455,0.456,0.942,0.637,0.973,-5.825,0.0902,139.557,0.383,5,4,29,The National
+75,Boxer (Live in Brussels),3,Brainy - Live in Brussels,spotify:track:0ySk1A7oprvyH2Sf4Q4eR4,229229,0.0891,0.431,0.895,0.6,0.583,-7.286,0.0507,84.562,0.483,6,4,28,The National
+76,Boxer (Live in Brussels),4,Squalor Victoria - Live in Brussels,spotify:track:53riWYvrh63ewZllVh8QQx,310598,0.0178,0.408,0.791,0.724,0.973,-7.653,0.0448,137.816,0.497,11,4,28,The National
+77,Boxer (Live in Brussels),5,Green Gloves - Live in Brussels,spotify:track:6GQZkpGHOgde1U2sTvEhqE,235922,0.789,0.51,0.43,0.35,0.711,-11.649,0.0297,148.598,0.217,2,4,27,The National
+78,Boxer (Live in Brussels),6,Slow Show - Live in Brussels,spotify:track:3KDIidi9rNQqUJU9tIFGwk,288573,0.254,0.378,0.698,0.218,0.551,-8.977,0.0441,149.601,0.426,1,4,29,The National
+79,Boxer (Live in Brussels),7,Apartment Story - Live in Brussels,spotify:track:2h4gvJMFtx7DNiBeIAtNWs,216959,0.15,0.273,0.9,0.135,0.7,-7.034,0.0775,146.101,0.36,11,4,28,The National
+80,Boxer (Live in Brussels),8,Start A War - Live in Brussels,spotify:track:3y2L2xNN7PmFix758joq0D,221585,0.679,0.464,0.694,0.489,0.723,-10.377,0.051,135.047,0.207,0,4,28,The National
+81,Boxer (Live in Brussels),9,Guest Room - Live in Brussels,spotify:track:0kDSiQy41Sa4KFe4JwgVbZ,227952,0.0568,0.476,0.848,0.472,0.415,-8.272,0.0612,138.422,0.445,6,4,26,The National
+82,Boxer (Live in Brussels),10,Racing Like A Pro - Live in Brussels,spotify:track:57mbWrzYBv0th3rljxQsyN,249834,0.733,0.422,0.545,0.397,0.235,-10.622,0.0596,137.038,0.266,5,3,25,The National
+83,Boxer (Live in Brussels),11,Ada - Live in Brussels,spotify:track:4LuIk2rpQEkdiatRvYQrTh,275755,0.61,0.38,0.597,0.0702,0.369,-9.633,0.0524,121.948,0.0989,7,4,25,The National
+84,Boxer (Live in Brussels),12,Gospel - Live in Brussels,spotify:track:0WEyIygjimGp0Ue1XL4Sqv,265976,0.531,0.542,0.448,0.00145,0.198,-11.766,0.042,81.393,0.218,0,4,25,The National
+85,Sleep Well Beast,1,Nobody Else Will Be There,spotify:track:442vojce8QY34Fy0OfIDtr,280773,0.757,0.657,0.541,0.588,0.0589,-10.883,0.0296,99.022,0.568,9,4,48,The National
+86,Sleep Well Beast,2,Day I Die,spotify:track:5tOQgKuJEU01GjoHhVFCjn,271533,0.00406,0.432,0.947,0.737,0.0777,-5.442,0.0943,147.981,0.386,2,4,52,The National
+87,Sleep Well Beast,3,Walk It Back,spotify:track:55OYWH9Pb14Fn9XIYiqK5c,359360,0.644,0.727,0.475,0.894,0.434,-12.468,0.0616,126.046,0.112,9,4,41,The National
+88,Sleep Well Beast,4,The System Only Dreams in Total Darkness,spotify:track:612R6rJlv9N3wpljUpT8Ja,236746,0.156,0.596,0.912,0.794,0.584,-6.74,0.211,110.014,0.371,0,4,57,The National
+89,Sleep Well Beast,5,Born to Beg,spotify:track:5oMorrhWYwqvcBEFsT2Pkx,262679,0.925,0.528,0.63,0.858,0.101,-13.168,0.0611,169.48,0.267,7,4,41,The National
+90,Sleep Well Beast,6,Turtleneck,spotify:track:0Mn1Ku0kJLFbSzLPq0BtIq,180000,0.0762,0.427,0.991,0.827,0.167,-3.831,0.212,109.875,0.104,5,4,39,The National
+91,Sleep Well Beast,7,Empire Line,spotify:track:7sE9UKlqaAyMC4B9er9Z1d,323760,0.519,0.593,0.643,0.774,0.102,-10.995,0.0351,116.03,0.363,7,4,48,The National
+92,Sleep Well Beast,8,I'll Still Destroy You,spotify:track:5L6YfOfsBnaKJHpgsxVgsV,315280,0.332,0.536,0.837,0.787,0.1,-7.494,0.0558,145.001,0.26,1,4,46,The National
+93,Sleep Well Beast,9,Guilty Party,spotify:track:44K14Xsq0SbmEavHr5H141,338973,0.702,0.368,0.686,0.777,0.124,-8.332,0.0735,182.262,0.588,2,5,50,The National
+94,Sleep Well Beast,10,Carin at the Liquor Store,spotify:track:5nQJn8mJryraorVcTnIIOo,213733,0.594,0.54,0.615,0.799,0.12,-9.264,0.034,93.17,0.239,10,3,45,The National
+95,Sleep Well Beast,11,Dark Side of the Gym,spotify:track:5nKH6bOVogJdgfH031s1P1,290093,0.727,0.642,0.475,0.781,0.12,-11.404,0.0294,103.956,0.453,2,3,50,The National
+96,Sleep Well Beast,12,Sleep Well Beast,spotify:track:1ZiCI5KyHTd1LFh4bsJ0En,393186,0.773,0.451,0.603,0.645,0.118,-11.407,0.0798,137.981,0.349,2,4,38,The National
+97,Trouble Will Find Me,1,I Should Live in Salt,spotify:track:4kFmM894Q4sgHDl4pZalza,248043,0.181,0.519,0.612,7.08e-06,0.105,-7.1,0.0254,134.046,0.158,5,4,54,The National
+98,Trouble Will Find Me,2,Demons,spotify:track:2yKczCmnpWYuIJuel6M0eV,211546,0.103,0.54,0.773,0.861,0.0839,-6.327,0.0405,149.882,0.417,4,1,46,The National
+99,Trouble Will Find Me,3,Don't Swallow the Cap,spotify:track:3l3SbRkrK1aQ5Dk1h7vroV,285533,0.396,0.45,0.661,0.0362,0.0912,-8.537,0.0411,173.909,0.476,5,4,56,The National
+100,Trouble Will Find Me,4,Fireproof,spotify:track:5qv92QoJH3gi2axKlHnayD,178106,0.959,0.483,0.473,0.00944,0.114,-10.539,0.0358,116.021,0.315,3,4,47,The National
+101,Trouble Will Find Me,5,Sea of Love,spotify:track:1nXasqw1Y79vUwGFtrwD6p,221440,0.139,0.459,0.824,0.902,0.118,-6.301,0.036,146.009,0.526,0,4,47,The National
+102,Trouble Will Find Me,6,Heavenfaced,spotify:track:5duVSbRsdK2QkVgLsoVDem,263200,0.645,0.505,0.496,0.285,0.0887,-9.428,0.0366,160.125,0.164,0,3,45,The National
+103,Trouble Will Find Me,7,This is the Last Time,spotify:track:70ZuQywnmOpqcIiEnUA5yV,283386,0.655,0.503,0.495,0.373,0.0934,-10.251,0.0328,140.032,0.133,0,4,54,The National
+104,Trouble Will Find Me,8,Graceless,spotify:track:52m3svaHBHJIySJGaUL4IB,275400,0.152,0.441,0.851,0.738,0.109,-6.365,0.168,171.977,0.366,1,4,52,The National
+105,Trouble Will Find Me,9,Slipped,spotify:track:4MBStyWbpr6vBEviGvUNFF,265066,0.774,0.452,0.423,0.00446,0.0952,-10.165,0.0357,116.133,0.157,1,4,44,The National
+106,Trouble Will Find Me,10,I Need My Girl,spotify:track:50M7nY1oQuNHecs0ahWAtI,245240,0.865,0.52,0.436,0.0651,0.123,-11.508,0.0355,126.053,0.114,0,4,65,The National
+107,Trouble Will Find Me,11,Humiliation,spotify:track:7mxVCiILTA07FmLly7xvpm,300733,0.782,0.47,0.7,0.244,0.255,-8.6,0.0425,167.749,0.446,5,4,45,The National
+108,Trouble Will Find Me,12,Pink Rabbits,spotify:track:1oNDnnBojo1hkFATFEp1CM,276200,0.799,0.502,0.656,0.109,0.0895,-7.34,0.0435,110.157,0.275,9,4,50,The National
+109,Trouble Will Find Me,13,Hard to Find,spotify:track:4hizMtcebzlqsZqp1Y6yJo,253454,0.794,0.488,0.514,0.00508,0.0979,-12.021,0.0309,114.079,0.104,8,5,45,The National
+110,High Violet (Expanded Edition),1,Terrible Love,spotify:track:6gIgCC8fMTYW7D3cdrMlIs,279760,0.55,0.304,0.795,0.724,0.118,-6.023,0.0554,79.884,0.35,7,4,31,The National
+111,High Violet (Expanded Edition),2,Sorrow,spotify:track:4FEmNwOB0IAWOH83XbphXk,205213,0.172,0.55,0.74,0.663,0.0584,-8.83,0.0274,122.277,0.522,1,4,31,The National
+112,High Violet (Expanded Edition),3,Anyone's Ghost,spotify:track:2LFD6akVsc9akkiG9Xq4gg,174173,0.281,0.745,0.789,0.769,0.108,-7.132,0.0917,120.061,0.744,6,4,31,The National
+113,High Violet (Expanded Edition),4,Little Faith,spotify:track:5r3OoGdPz9J4tIBTXxrPhu,276640,0.418,0.419,0.725,0.128,0.0776,-7.729,0.0359,149.991,0.338,7,4,29,The National
+114,High Violet (Expanded Edition),5,Afraid of Everyone,spotify:track:6N6c4xnRcFYC9bWcN0MkYD,259093,0.504,0.527,0.779,0.803,0.0996,-7.638,0.0508,126.026,0.239,9,4,30,The National
+115,High Violet (Expanded Edition),6,Bloodbuzz Ohio,spotify:track:2cRe2J2LFM2adYMgzDEHIK,275933,0.0558,0.402,0.835,0.18,0.103,-6.367,0.043,157.066,0.69,9,4,33,The National
+116,High Violet (Expanded Edition),7,Lemonworld,spotify:track:683h9Sp7e9A5PkoR9PNmtj,203733,0.63,0.648,0.745,0.712,0.0901,-8.546,0.0358,126.008,0.589,1,4,30,The National
+117,High Violet (Expanded Edition),8,Runaway,spotify:track:3R2xuyZscR55XTO4eWTJZk,333786,0.868,0.583,0.441,0.557,0.117,-10.318,0.0325,135.019,0.343,4,3,30,The National
+118,High Violet (Expanded Edition),9,Conversation 16,spotify:track:5enOx9y7vusf73uzLtvf8J,258933,0.608,0.554,0.851,0.912,0.24,-7.61,0.0368,116.978,0.516,11,4,31,The National
+119,High Violet (Expanded Edition),10,England,spotify:track:2C0xQEQPtwDc9yhx3UtUsB,340186,0.702,0.49,0.646,0.821,0.106,-8.956,0.04,122.96,0.266,0,4,30,The National
+120,High Violet (Expanded Edition),11,Vanderlyle Crybaby Geeks,spotify:track:1cpraaZvYqYIJMY9BbqRnc,252200,0.702,0.464,0.513,0.000115,0.174,-7.683,0.0284,117.935,0.308,9,3,30,The National
+121,High Violet (Expanded Edition),1,Terrible Love - Alternate Version,spotify:track:4gZdVhZCISt3jVH7lBxeo4,258519,0.00562,0.397,0.722,0.0284,0.118,-7.599,0.037,81.296,0.403,7,4,43,The National
+122,High Violet (Expanded Edition),2,Wake Up Your Saints,spotify:track:1oqerJidiFTCm2L0KyU1AK,254040,0.168,0.526,0.689,0.0371,0.0699,-7.275,0.0304,168.109,0.409,8,4,33,The National
+123,High Violet (Expanded Edition),3,You Were a Kindness,spotify:track:4KOWSd4xb8HzQBelJ4gsEL,265560,0.669,0.374,0.563,0.75,0.156,-8.374,0.0291,80.911,0.292,5,4,37,The National
+124,High Violet (Expanded Edition),4,Walk Off,spotify:track:2NFFfAx6twAcgTD4YQEY8v,160533,0.929,0.545,0.304,0.00421,0.095,-9.066,0.0317,71.942,0.158,4,5,30,The National
+125,High Violet (Expanded Edition),5,Sin-Eaters,spotify:track:0ldxKDjImKMUec96k2YRcs,219386,0.629,0.534,0.447,0.522,0.117,-9.104,0.0304,161.91,0.315,10,3,30,The National
+126,High Violet (Expanded Edition),6,Bloodbuzz Ohio - Live on The Current,spotify:track:25y7qMJKfI39jA5XlOQanB,233160,0.918,0.294,0.33,0.522,0.112,-10.751,0.0282,180.884,0.167,9,4,32,The National
+127,High Violet (Expanded Edition),7,Anyone's Ghost - Live at Brooklyn Academy of Music,spotify:track:0YlHnZYUeqNpbwvoIp5XAJ,178013,0.00192,0.546,0.945,0.377,0.982,-6.014,0.0486,126.263,0.74,11,4,29,The National
+128,High Violet (Expanded Edition),8,England - Live at Brooklyn Academy of Music,spotify:track:1N5mM792BAO2YIOvg91Zvj,326733,0.0339,0.405,0.789,0.855,0.5,-7.03,0.0344,125.344,0.417,3,4,30,The National
+129,High Violet,1,Terrible Love,spotify:track:6pUAg3OgdO2kQ4lub9Tb5m,279760,0.55,0.304,0.795,0.724,0.118,-6.023,0.0554,79.884,0.35,7,4,41,The National
+130,High Violet,2,Sorrow,spotify:track:30YMGz5pjtRaIjtQcpjn01,205213,0.172,0.55,0.74,0.663,0.0584,-8.83,0.0274,122.277,0.522,1,4,39,The National
+131,High Violet,3,Anyone's Ghost,spotify:track:6NrjC9PUZo2do7aLhkf373,174173,0.281,0.745,0.789,0.769,0.108,-7.132,0.0917,120.061,0.744,6,4,35,The National
+132,High Violet,4,Little Faith,spotify:track:2kAu35H96f9hG3J96zfQOt,276640,0.418,0.419,0.725,0.128,0.0776,-7.729,0.0359,149.991,0.338,7,4,31,The National
+133,High Violet,5,Afraid of Everyone,spotify:track:3PDnTRxUNjxzF1OTd0amO8,259093,0.504,0.527,0.779,0.803,0.0996,-7.638,0.0508,126.026,0.239,9,4,34,The National
+134,High Violet,6,Bloodbuzz Ohio,spotify:track:3lnF83kG6ePhTSWRoW62dO,275933,0.0558,0.402,0.835,0.18,0.103,-6.367,0.043,157.066,0.69,9,4,48,The National
+135,High Violet,7,Lemonworld,spotify:track:74UpwsEQCA36fE5hUmLGyT,203733,0.63,0.648,0.745,0.712,0.0901,-8.546,0.0358,126.008,0.589,1,4,39,The National
+136,High Violet,8,Runaway,spotify:track:7DUwey3WJDVU6IO3ZGqmTC,333786,0.868,0.583,0.441,0.557,0.117,-10.318,0.0325,135.019,0.343,4,3,39,The National
+137,High Violet,9,Conversation 16,spotify:track:5M9U88s5o3qNFN8vq2Z9yb,258933,0.608,0.554,0.851,0.912,0.24,-7.61,0.0368,116.978,0.516,11,4,36,The National
+138,High Violet,10,England,spotify:track:3KpJsilpYiHAVEMoCKYjFv,340186,0.702,0.49,0.646,0.821,0.106,-8.956,0.04,122.96,0.266,0,4,39,The National
+139,High Violet,11,Vanderlyle Crybaby Geeks,spotify:track:7e6b9qDllAbLtEYHo7Stch,252200,0.702,0.464,0.513,0.000115,0.174,-7.683,0.0284,117.935,0.308,9,3,35,The National
+140,High Violet,1,Terrible Love,spotify:track:6pUAg3OgdO2kQ4lub9Tb5m,279760,0.55,0.304,0.795,0.724,0.118,-6.023,0.0554,79.884,0.35,7,4,41,The National
+141,High Violet,2,Sorrow,spotify:track:30YMGz5pjtRaIjtQcpjn01,205213,0.172,0.55,0.74,0.663,0.0584,-8.83,0.0274,122.277,0.522,1,4,39,The National
+142,High Violet,3,Anyone's Ghost,spotify:track:6NrjC9PUZo2do7aLhkf373,174173,0.281,0.745,0.789,0.769,0.108,-7.132,0.0917,120.061,0.744,6,4,35,The National
+143,High Violet,4,Little Faith,spotify:track:2kAu35H96f9hG3J96zfQOt,276640,0.418,0.419,0.725,0.128,0.0776,-7.729,0.0359,149.991,0.338,7,4,31,The National
+144,High Violet,5,Afraid of Everyone,spotify:track:3PDnTRxUNjxzF1OTd0amO8,259093,0.504,0.527,0.779,0.803,0.0996,-7.638,0.0508,126.026,0.239,9,4,34,The National
+145,High Violet,6,Bloodbuzz Ohio,spotify:track:3lnF83kG6ePhTSWRoW62dO,275933,0.0558,0.402,0.835,0.18,0.103,-6.367,0.043,157.066,0.69,9,4,48,The National
+146,High Violet,7,Lemonworld,spotify:track:74UpwsEQCA36fE5hUmLGyT,203733,0.63,0.648,0.745,0.712,0.0901,-8.546,0.0358,126.008,0.589,1,4,39,The National
+147,High Violet,8,Runaway,spotify:track:7DUwey3WJDVU6IO3ZGqmTC,333786,0.868,0.583,0.441,0.557,0.117,-10.318,0.0325,135.019,0.343,4,3,39,The National
+148,High Violet,9,Conversation 16,spotify:track:5M9U88s5o3qNFN8vq2Z9yb,258933,0.608,0.554,0.851,0.912,0.24,-7.61,0.0368,116.978,0.516,11,4,36,The National
+149,High Violet,10,England,spotify:track:3KpJsilpYiHAVEMoCKYjFv,340186,0.702,0.49,0.646,0.821,0.106,-8.956,0.04,122.96,0.266,0,4,39,The National
+150,High Violet,11,Vanderlyle Crybaby Geeks,spotify:track:7e6b9qDllAbLtEYHo7Stch,252200,0.702,0.464,0.513,0.000115,0.174,-7.683,0.0284,117.935,0.308,9,3,35,The National
+151,High Violet,4,Walk Off,spotify:track:2NFFfAx6twAcgTD4YQEY8v,160533,0.929,0.545,0.304,0.00421,0.095,-9.066,0.0317,71.942,0.158,4,5,30,The National
+152,High Violet,5,Sin-Eaters,spotify:track:0ldxKDjImKMUec96k2YRcs,219386,0.629,0.534,0.447,0.522,0.117,-9.104,0.0304,161.91,0.315,10,3,30,The National
+153,High Violet,1,Terrible Love,spotify:track:6pUAg3OgdO2kQ4lub9Tb5m,279760,0.55,0.304,0.795,0.724,0.118,-6.023,0.0554,79.884,0.35,7,4,41,The National
+154,High Violet,2,Sorrow,spotify:track:30YMGz5pjtRaIjtQcpjn01,205213,0.172,0.55,0.74,0.663,0.0584,-8.83,0.0274,122.277,0.522,1,4,39,The National
+155,High Violet,3,Anyone's Ghost,spotify:track:6NrjC9PUZo2do7aLhkf373,174173,0.281,0.745,0.789,0.769,0.108,-7.132,0.0917,120.061,0.744,6,4,35,The National
+156,High Violet,4,Little Faith,spotify:track:2kAu35H96f9hG3J96zfQOt,276640,0.418,0.419,0.725,0.128,0.0776,-7.729,0.0359,149.991,0.338,7,4,31,The National
+157,High Violet,5,Afraid of Everyone,spotify:track:3PDnTRxUNjxzF1OTd0amO8,259093,0.504,0.527,0.779,0.803,0.0996,-7.638,0.0508,126.026,0.239,9,4,34,The National
+158,High Violet,6,Bloodbuzz Ohio,spotify:track:3lnF83kG6ePhTSWRoW62dO,275933,0.0558,0.402,0.835,0.18,0.103,-6.367,0.043,157.066,0.69,9,4,48,The National
+159,High Violet,7,Lemonworld,spotify:track:74UpwsEQCA36fE5hUmLGyT,203733,0.63,0.648,0.745,0.712,0.0901,-8.546,0.0358,126.008,0.589,1,4,39,The National
+160,High Violet,8,Runaway,spotify:track:7DUwey3WJDVU6IO3ZGqmTC,333786,0.868,0.583,0.441,0.557,0.117,-10.318,0.0325,135.019,0.343,4,3,39,The National
+161,High Violet,9,Conversation 16,spotify:track:5M9U88s5o3qNFN8vq2Z9yb,258933,0.608,0.554,0.851,0.912,0.24,-7.61,0.0368,116.978,0.516,11,4,36,The National
+162,High Violet,10,England,spotify:track:3KpJsilpYiHAVEMoCKYjFv,340186,0.702,0.49,0.646,0.821,0.106,-8.956,0.04,122.96,0.266,0,4,39,The National
+163,High Violet,11,Vanderlyle Crybaby Geeks,spotify:track:7e6b9qDllAbLtEYHo7Stch,252200,0.702,0.464,0.513,0.000115,0.174,-7.683,0.0284,117.935,0.308,9,3,35,The National
+164,Boxer,1,Fake Empire,spotify:track:7hanhZrUArC9qUerln4jh1,205040,0.143,0.325,0.768,0.909,0.0731,-6.791,0.0334,101.961,0.311,0,3,49,The National
+165,Boxer,2,Mistaken for Strangers,spotify:track:2d60QBTD1OIpbb1YxlllM8,210960,0.0532,0.539,0.925,0.87,0.298,-5.303,0.0313,133.008,0.751,5,4,42,The National
+166,Boxer,3,Brainy,spotify:track:3H7KmznqFVV51IQEYHyIzz,198133,0.0305,0.505,0.823,0.731,0.104,-8.308,0.0389,169.967,0.762,9,4,35,The National
+167,Boxer,4,Squalor Victoria,spotify:track:5yn98oq8iLbdBA31NnLM96,179333,0.179,0.553,0.726,0.883,0.157,-6.778,0.0331,132.989,0.827,4,4,33,The National
+168,Boxer,5,Green Gloves,spotify:track:265fydm3D52fct4xN6FcEg,219466,0.682,0.534,0.408,0.891,0.133,-10.448,0.031,153.989,0.394,2,4,35,The National
+169,Boxer,6,Slow Show,spotify:track:7s97wgRDIbCJwuD46ySBYs,248266,0.658,0.575,0.695,0.861,0.148,-8.387,0.032,150.023,0.512,4,4,44,The National
+170,Boxer,7,Apartment Story,spotify:track:558XMczFvyHKnUzGNqVJbK,212533,0.00837,0.55,0.836,0.758,0.0934,-5.485,0.0362,141.988,0.787,11,4,37,The National
+171,Boxer,8,Start a War,spotify:track:0Ud4huDX9IlaKZl4xVj4JR,196400,0.875,0.655,0.445,0.634,0.115,-12.06,0.0274,130.014,0.14,0,4,41,The National
+172,Boxer,9,Guest Room,spotify:track:0ZwojfmtTClyD1I6ZCHagP,198933,0.119,0.576,0.625,0.889,0.14,-7.541,0.028,135.95,0.546,9,4,32,The National
+173,Boxer,10,Racing Like a Pro,spotify:track:3YLXwNoinuYcHZZDqVBDyv,204240,0.932,0.353,0.39,0.667,0.09,-9.771,0.0293,94.156,0.107,10,4,32,The National
+174,Boxer,11,Ada,spotify:track:1lNiYx6MXLqkzbqhzcVIm2,243200,0.641,0.557,0.505,0.883,0.103,-9.617,0.0296,116.942,0.144,7,4,36,The National
+175,Boxer,12,Gospel,spotify:track:5SA1pmhLHV02cWxPm1t6q3,269200,0.828,0.575,0.309,0.511,0.107,-12.372,0.0272,83.013,0.22,0,4,39,The National
+176,Boxer,1,Fake Empire,spotify:track:7hanhZrUArC9qUerln4jh1,205040,0.143,0.325,0.768,0.909,0.0731,-6.791,0.0334,101.961,0.311,0,3,49,The National
+177,Boxer,2,Mistaken for Strangers,spotify:track:2d60QBTD1OIpbb1YxlllM8,210960,0.0532,0.539,0.925,0.87,0.298,-5.303,0.0313,133.008,0.751,5,4,42,The National
+178,Boxer,3,Brainy,spotify:track:3H7KmznqFVV51IQEYHyIzz,198133,0.0305,0.505,0.823,0.731,0.104,-8.308,0.0389,169.967,0.762,9,4,35,The National
+179,Boxer,4,Squalor Victoria,spotify:track:5yn98oq8iLbdBA31NnLM96,179333,0.179,0.553,0.726,0.883,0.157,-6.778,0.0331,132.989,0.827,4,4,33,The National
+180,Boxer,5,Green Gloves,spotify:track:265fydm3D52fct4xN6FcEg,219466,0.682,0.534,0.408,0.891,0.133,-10.448,0.031,153.989,0.394,2,4,35,The National
+181,Boxer,6,Slow Show,spotify:track:7s97wgRDIbCJwuD46ySBYs,248266,0.658,0.575,0.695,0.861,0.148,-8.387,0.032,150.023,0.512,4,4,44,The National
+182,Boxer,7,Apartment Story,spotify:track:558XMczFvyHKnUzGNqVJbK,212533,0.00837,0.55,0.836,0.758,0.0934,-5.485,0.0362,141.988,0.787,11,4,37,The National
+183,Boxer,8,Start a War,spotify:track:0Ud4huDX9IlaKZl4xVj4JR,196400,0.875,0.655,0.445,0.634,0.115,-12.06,0.0274,130.014,0.14,0,4,41,The National
+184,Boxer,9,Guest Room,spotify:track:0ZwojfmtTClyD1I6ZCHagP,198933,0.119,0.576,0.625,0.889,0.14,-7.541,0.028,135.95,0.546,9,4,32,The National
+185,Boxer,10,Racing Like a Pro,spotify:track:3YLXwNoinuYcHZZDqVBDyv,204240,0.932,0.353,0.39,0.667,0.09,-9.771,0.0293,94.156,0.107,10,4,32,The National
+186,Boxer,11,Ada,spotify:track:1lNiYx6MXLqkzbqhzcVIm2,243200,0.641,0.557,0.505,0.883,0.103,-9.617,0.0296,116.942,0.144,7,4,36,The National
+187,Boxer,12,Gospel,spotify:track:5SA1pmhLHV02cWxPm1t6q3,269200,0.828,0.575,0.309,0.511,0.107,-12.372,0.0272,83.013,0.22,0,4,39,The National
+188,Alligator,1,Secret Meeting,spotify:track:6QzNlWknrAEOYPNNAFY1x5,224773,0.375,0.622,0.626,0.00091,0.265,-5.553,0.0365,111.957,0.629,2,4,46,The National
+189,Alligator,2,Karen,spotify:track:0t8exZZoczfYkgMT9XQSsw,239120,0.271,0.659,0.622,0.805,0.0873,-6.526,0.0243,97.983,0.766,0,4,37,The National
+190,Alligator,3,Lit Up,spotify:track:7BD42L24drFQlQFvMArkbP,175026,0.00282,0.428,0.873,0.0411,0.0735,-5.101,0.0382,149.852,0.598,4,4,42,The National
+191,Alligator,4,Looking for Astronauts,spotify:track:3tMfguPHt0N194ZVMDTdfp,203160,0.0672,0.499,0.859,0.0777,0.205,-6.465,0.0349,138.564,0.889,4,4,35,The National
+192,Alligator,5,Daughters of the Soho Riots,spotify:track:2LrR7LR3weKEcmpMXAiA6Y,238573,0.645,0.563,0.444,0.712,0.125,-12.543,0.0314,85.999,0.309,9,4,37,The National
+193,Alligator,6,Baby We'll Be Fine,spotify:track:4w9l5SLRm9BY3kyeECCpcA,201533,0.333,0.46,0.829,0.0748,0.035,-6.948,0.0388,125.112,0.404,4,4,36,The National
+194,Alligator,7,Friend of Mine,spotify:track:1EH0iG6Wtyur2UjnHX2vBg,205253,0.343,0.655,0.935,0.013,0.144,-5.526,0.0426,127.44,0.815,0,4,33,The National
+195,Alligator,8,Val Jester,spotify:track:6yPYdOfxEbfI9FefDkHWVr,180653,0.713,0.473,0.457,0.876,0.0819,-11.373,0.0275,114.333,0.0618,11,3,32,The National
+196,Alligator,9,All the Wine,spotify:track:3ozTt0Quc33a8ZyD8a44xC,195320,0.000744,0.604,0.853,0.0534,0.0995,-4.84,0.0265,119.996,0.635,0,4,44,The National
+197,Alligator,10,Abel,spotify:track:0XKXeiNCDf9jlK1YmkM1cX,217026,0.000348,0.342,0.944,0.256,0.0848,-3.873,0.0489,158.807,0.413,0,4,44,The National
+198,Alligator,11,The Geese of Beverly Road,spotify:track:6WunHEoxTFHMXeWYKrRhew,296786,0.0502,0.538,0.801,0.174,0.11,-7.026,0.0298,107.558,0.361,5,4,36,The National
+199,Alligator,12,City Middle,spotify:track:04I3nDxLwzPTNVN3m0FfaH,267586,0.87,0.529,0.508,0.0318,0.141,-8.655,0.0379,141.926,0.379,7,3,34,The National
+200,Alligator,13,Mr. November,spotify:track:6GmoLmBISzLomNjM18dFgz,240493,0.0234,0.416,0.879,1.74e-06,0.183,-4.187,0.0453,146.166,0.706,7,4,48,The National
+201,Sad Songs for Dirty Lovers,1,Cardinal Song,spotify:track:1PhMk1GwYBHWXyL46Sb1Ta,378040,0.812,0.427,0.345,0.699,0.119,-11.323,0.0347,119.984,0.119,2,4,29,The National
+202,Sad Songs for Dirty Lovers,2,Slipping Husband,spotify:track:66nE1YHW9n62hohhsHHM0P,202746,0.0299,0.616,0.606,0.368,0.19,-7.772,0.0318,130.106,0.512,0,4,29,The National
+203,Sad Songs for Dirty Lovers,3,90-Mile Water Wall,spotify:track:2Vyj8Vwg2Y9rK2rNtAyrAZ,224360,0.807,0.477,0.468,0.118,0.104,-8.177,0.027,103.056,0.102,4,4,31,The National
+204,Sad Songs for Dirty Lovers,4,It Never Happened,spotify:track:7timozTlGw1k7yyZH4RTP3,277320,0.0893,0.394,0.615,0.666,0.256,-8.351,0.0289,133.24,0.195,7,4,40,The National
+205,Sad Songs for Dirty Lovers,5,Murder Me Rachael,spotify:track:1IBM6aORo9icwQklXbx1fl,225666,0.000799,0.192,0.706,0.791,0.106,-4.717,0.0461,148.271,0.181,7,4,27,The National
+206,Sad Songs for Dirty Lovers,6,Thirsty,spotify:track:5zim6YZrYRSHI7pnFnwr1y,228320,0.206,0.522,0.381,0.252,0.256,-8.664,0.0268,130.93,0.492,7,4,26,The National
+207,Sad Songs for Dirty Lovers,7,Available,spotify:track:4rzAsxogB0Y1mEUapp6Y4P,200026,0.0015,0.307,0.87,0.88,0.234,-5.307,0.065,142.853,0.172,1,4,29,The National
+208,Sad Songs for Dirty Lovers,8,Sugar Wife,spotify:track:5KVwtZRtEqKzGhf77r7e7h,141613,0.36,0.701,0.521,0.524,0.0857,-9.955,0.0335,110.095,0.843,7,4,24,The National
+209,Sad Songs for Dirty Lovers,9,Trophy Wife,spotify:track:2sw8M0BXlblXp92SVUXnnV,212906,0.174,0.627,0.652,0.351,0.107,-9.731,0.0272,123.581,0.861,0,4,25,The National
+210,Sad Songs for Dirty Lovers,10,Fashion Coat,spotify:track:3miRHVZERVUAqVJUcELBbq,122666,0.146,0.651,0.761,0.000206,0.175,-6.512,0.0569,125.537,0.648,4,4,26,The National
+211,Sad Songs for Dirty Lovers,11,Patterns of Fairytales,spotify:track:50GPorSWe4YENEQgrUowVh,223826,0.797,0.576,0.48,0.787,0.133,-9.619,0.0357,155.181,0.296,0,4,24,The National
+212,Sad Songs for Dirty Lovers,12,Lucky You,spotify:track:19GDzR3zE3TekzL8FwmPUy,262160,0.679,0.607,0.516,0.821,0.106,-8.939,0.0259,138.183,0.112,4,4,45,The National
+213,The National (2021 Remaster),1,Beautiful Head - 2021 Remaster,spotify:track:5n7ZqHJo1d3ensM9ovgpF4,188760,0.358,0.583,0.637,0.0628,0.0962,-9.377,0.0426,147.962,0.561,4,4,21,The National
+214,The National (2021 Remaster),2,Cold Girl Fever - 2021 Remaster,spotify:track:4MfVzLDvwcaAAtYhRfPx8v,246573,0.688,0.793,0.406,0.773,0.102,-11.319,0.0429,118.006,0.582,9,4,21,The National
+215,The National (2021 Remaster),3,The Perfect Song - 2021 Remaster,spotify:track:4yeD1Ppy2dKmOkVNJpuRrj,195426,0.00923,0.554,0.509,0.629,0.0848,-9.173,0.034,125.728,0.452,7,4,21,The National
+216,The National (2021 Remaster),4,American Mary - 2021 Remaster,spotify:track:0I5erZXdbZS3uSYuftoi2d,242906,0.599,0.629,0.306,0.00239,0.105,-11.294,0.0317,135.667,0.336,7,4,20,The National
+217,The National (2021 Remaster),5,Son - 2021 Remaster,spotify:track:4eSWpsKqLzd8eKEkQBb8oK,319480,0.247,0.762,0.492,0.665,0.0708,-10.97,0.0301,125.013,0.329,0,4,19,The National
+218,The National (2021 Remaster),6,Pay for Me - 2021 Remaster,spotify:track:3EMI7Ynj3Ns3wS5StA0qM9,202680,0.00099,0.671,0.734,0.0791,0.141,-7.901,0.0396,122.228,0.439,7,4,19,The National
+219,The National (2021 Remaster),7,Bitters & Absolut - 2021 Remaster,spotify:track:3naQRfduG9PCzvaM44vXGV,240280,0.387,0.723,0.458,0.375,0.278,-12.682,0.034,123.759,0.424,7,4,18,The National
+220,The National (2021 Remaster),8,John's Star - 2021 Remaster,spotify:track:46JPqODp0hNXQUPIHX0D3b,184746,0.043,0.589,0.638,0.127,0.108,-8.665,0.0322,130.236,0.77,1,4,18,The National
+221,The National (2021 Remaster),9,Watching You Well - 2021 Remaster,spotify:track:514oaXWEnrPR1inHqJciTv,182373,0.434,0.573,0.31,0.219,0.209,-12.773,0.0272,78.672,0.23,0,4,17,The National
+222,The National (2021 Remaster),10,Theory of the Crows - 2021 Remaster,spotify:track:6OE2HDjRDrq3qZ6TOwccKH,276440,0.0274,0.497,0.369,0.674,0.115,-11.022,0.0309,133.986,0.123,2,3,18,The National
+223,The National (2021 Remaster),11,29 Years - 2021 Remaster,spotify:track:7BeCxon082GMTXsHjzx7MS,170840,0.888,0.509,0.288,0.461,0.322,-22.773,0.151,140.626,0.123,0,1,18,The National
+224,The National (2021 Remaster),12,Anna Freud - 2021 Remaster,spotify:track:0Te5iZlln4yKtcTHbhCIsO,187773,0.585,0.853,0.221,0.473,0.11,-13.844,0.049,100.885,0.552,11,4,17,The National
+225,The National,1,Beautiful Head,spotify:track:5qjxbESLSYtV20JKeiwsaZ,188400,0.547,0.564,0.667,0.043,0.0959,-8.774,0.0529,148.091,0.546,4,4,27,The National
+226,The National,2,Cold Girl Fever,spotify:track:77JYrFDjiqBSUQ6qMLfhaL,246000,0.756,0.788,0.392,0.759,0.107,-11.739,0.0432,118.013,0.573,9,4,40,The National
+227,The National,3,The Perfect Song,spotify:track:1cZnwa4gquHoJ6jTIAYAkg,195200,0.0268,0.541,0.521,0.281,0.0913,-9.377,0.0313,125.675,0.48,7,4,28,The National
+228,The National,4,American Mary,spotify:track:1IGBD3TlzViHUHb1FKeEHz,242893,0.563,0.642,0.318,0.00643,0.0939,-10.876,0.0268,135.867,0.336,7,4,26,The National
+229,The National,5,Son,spotify:track:2qNifuc2Z75HavDfBpCuGf,319733,0.0532,0.762,0.48,0.693,0.08,-10.709,0.0303,125.025,0.305,0,4,25,The National
+230,The National,6,Pay For Me,spotify:track:6IEEpgL2pWzEqeJU7DdUD5,202640,0.000312,0.645,0.72,0.116,0.0723,-8.094,0.0361,122.244,0.388,7,4,25,The National
+231,The National,7,Bitters & Absolut,spotify:track:4GbOdlWpwsQxoUboLNqshV,240026,0.405,0.725,0.455,0.516,0.309,-13.362,0.0357,123.799,0.352,7,4,25,The National
+232,The National,8,John's Star,spotify:track:6B0vA1VobjedKbjSkTY1tk,184866,0.0302,0.578,0.689,0.0394,0.111,-8.34,0.0303,130.267,0.751,1,4,23,The National
+233,The National,9,Watching You Well,spotify:track:0hdDBAtFnekO78kmOGlcrc,182440,0.307,0.563,0.334,0.172,0.243,-11.833,0.0253,79.102,0.265,0,4,23,The National
+234,The National,10,Theory of the Crows,spotify:track:6DrpiNrqgOgdcyNa51CqVd,276600,0.0026,0.459,0.426,0.446,0.108,-8.983,0.0281,135.151,0.172,2,3,24,The National
+235,The National,11,29 Years,spotify:track:3IifrPET3e7aWXT3FN4Ij6,170493,0.923,0.525,0.306,0.191,0.368,-21.498,0.206,135.688,0.0854,0,1,25,The National
+236,The National,12,Anna Freud,spotify:track:7JlJGvQ4X3wFl5wn54U5hC,187266,0.457,0.854,0.267,0.404,0.11,-12.181,0.0446,100.919,0.55,9,4,23,The National
